@@ -1,2 +1,2 @@
 # hello-world
-for practice
+write about yourself
